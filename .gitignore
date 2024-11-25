@@ -1,0 +1,7 @@
+src/secrets.js
+
+# Ignorar el archivo package.json
+package.json
+
+# Ignorar el archivo package-lock.json
+package-lock.json
